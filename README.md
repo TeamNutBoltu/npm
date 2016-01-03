@@ -12,7 +12,7 @@ Follow the <a href="http://cordova.apache.org/docs/en/3.3.0/guide_platforms_andr
 
 Then Go to application direcotry
 
-$ cd moneyTracker
+$ cd npm
 
 $ ionic platform add android
 
